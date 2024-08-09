@@ -24,7 +24,7 @@ MAIN:
 	  //Right Motor Configuration with Timer2
 	  SBI DDRB,1
 	  SBI DDRD,5
-      SBI DDRD,4
+          SBI DDRD,4
 			
 	  SBI PORTD,5
 	  CBI PORTD,4
